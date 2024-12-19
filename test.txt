@@ -1,1 +1,3 @@
-Hello world!
+Name : Test
+Target : Slack
+Contents : Messages {Hello world!}
